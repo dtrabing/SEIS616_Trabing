@@ -1,0 +1,2 @@
+ssh -i /path/to/YOUR_KEY_PAIR.pem ec2-user@52.91.6.71
+ssh -i ~/Downloads/cloudcomputing-fall-2024-nova.pem ec2-user@52.91.6.71
